@@ -10,3 +10,10 @@
   display: flex;
   justify-content: center;
 }
+
+.btn i{
+  font-size: 5vh !important;
+}
+ .dds:focus {
+  background: #f98433 !important;
+}
